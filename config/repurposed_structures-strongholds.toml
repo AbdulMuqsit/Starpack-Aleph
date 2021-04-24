@@ -43,7 +43,7 @@
 		# How rare are Stonebrick-styled Strongholds.
 		# 1 for spawning in most chunks and 1001 for no spawn.
 		#Range: 1 ~ 1001
-		stonebrickStrongholdMaxChunkDistance = 85
+		stonebrickStrongholdMaxChunkDistance = 80
 		#
 		# How often Silverfish Blocks will generate in Strongholds as a percentage.
 		# Note: Mossy Stone Bricks block cannot be infected by Silverfish

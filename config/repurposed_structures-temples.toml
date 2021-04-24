@@ -67,12 +67,12 @@
 	# How rare are Badlands Pyramid in non-plateau Badlands biomes.
 	# 1 for spawning in most chunks and 1001 for none.
 	#Range: 1 ~ 1001
-	badlandsPyramidMaxChunkDistance = 37
+	badlandsPyramidMaxChunkDistance = 199
 	#
 	# How rare are Snowy Pyramid in snowy biomes.
 	# 1 for spawning in most chunks and 1001 for none.
 	#Range: 1 ~ 1001
-	pyramidSnowyMaxChunkDistance = 37
+	pyramidSnowyMaxChunkDistance = 199
 	#
 	# Add Snowy Pyramid to modded snowy biomes.
 	addPyramidSnowyToModdedBiomes = true
@@ -87,7 +87,7 @@
 	# How rare are Icy Pyramid in super cold or icy biomes.
 	# 1 for spawning in most chunks and 1001 for none.
 	#Range: 1 ~ 1001
-	pyramidIcyMaxChunkDistance = 37
+	pyramidIcyMaxChunkDistance = 199
 	#
 	# Add Icy Pyramid to modded icy biomes.
 	addPyramidIcyToModdedBiomes = true
