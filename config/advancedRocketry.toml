@@ -111,7 +111,7 @@
 								#Maximum unique biomes per planet
 								maxBiomesPerPlanet = 5
 								#setting this to true will force AR to read from the XML file in the config/advRocketry instead of the local data, intended for use pack developers to ensure updates are pushed through
-								resetPlanetsFromXML = false
+								resetPlanetsFromXML = true
 								#If true, players will respawn near beds on planets IF the spawn location is in a breathable atmosphere
 								allowPlanetRespawn = false
 								#If true, players will respawn near beds on planets REGARDLESS of the spawn location being in a non-breathable atmosphere. Requires 'allowPlanetRespawn' being true.
