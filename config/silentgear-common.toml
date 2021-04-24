@@ -191,3 +191,7 @@
 		#Log details about certain features being adding to biomes and other world generator details
 		worldGen = true
 
+[other]
+	#Set to false to remove the text from tooltips
+	showWipText = true
+

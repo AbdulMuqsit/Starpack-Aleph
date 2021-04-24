@@ -21,9 +21,9 @@
 #Management of a dedicated server
 [Server]
 	#Set to true to have a dedicated server added to the server list ingame. The server will not overwrite others servers.
-	AddDedicatedServer = false
+	AddDedicatedServer = true
 	#The name of the dedicated server to add.
-	ServerName = "localhost"
+	ServerName = "Starpack Official!"
 	#The ip of the dedicated server to add.
-	ServerIP = "127.0.0.1:25555"
+	ServerIP = "starpackaleph.starmun.xyz"
 
