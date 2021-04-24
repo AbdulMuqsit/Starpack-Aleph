@@ -346,13 +346,13 @@
 	disableWorldGen = false
 	#Chance to add a source in world (the small the more frequante).
 	#Range: 1 ~ 10000
-	sourceSpawnChance = 30
+	sourceSpawnChance = 200
 	#Chance to add a source in an ocean biome (the small the more frequante).
 	#Range: 1 ~ 10000
-	oceanSourceSpawnChance = 150
+	oceanSourceSpawnChance = 250
 	#Chance to add a source in world ingoring biome elemen type (the small the more frequante).
 	#Range: 1 ~ 10000
-	randomSourceSpawnChance = 300
+	randomSourceSpawnChance = 350
 	#CSource Altar genreration distance setting.
 	#Range: 0 ~ 100
 	sourceAltarDistance = 64
@@ -376,10 +376,10 @@
 	disableSourceExhaustion = false
 	#The minimum element capacity of a source.
 	#Range: 0 ~ 10000000
-	sourceCapacityMin = 500000
+	sourceCapacityMin = 1000000
 	#The maximum element capacity of a source.
 	#Range: 0 ~ 10000000
-	sourceCapacityMax = 1000000
+	sourceCapacityMax = 10000000
 	#The element a source can generate per tick.
 	#Range: 0 ~ 100
 	sourceRecoverRate = 5

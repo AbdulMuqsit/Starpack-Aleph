@@ -20,7 +20,7 @@
 	"Generate Dragon Skeletons" = true
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
-	"Generate Dragon Skeleton Chance" = 250
+	"Generate Dragon Skeleton Chance" = 400
 	#Whether to generate dragon caves or not
 	"Generate Dragon Caves" = true
 	#1 out of this number chance per chunk for generation
@@ -129,10 +129,10 @@
 	"Spawn Pixies" = true
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
-	"Spawn Pixies Chance" = 60
+	"Spawn Pixies Chance" = 400
 	#size of pixie villages
 	#Range: 1 ~ 10000
-	"Pixie Village Size" = 5
+	"Pixie Village Size" = 1
 	#True if pixies are allowed to steal from players
 	"Pixies Steal Items" = false
 	#True if cyclops caves are allowed to spawn
